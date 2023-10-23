@@ -1,1 +1,1 @@
-- Fixed announcer disc range
+- Fixed command permission check on dedicated servers
